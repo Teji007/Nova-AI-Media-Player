@@ -1,7 +1,17 @@
-# Notice
+# Nova AI Media Player Notice
 
-Nova AI Media Player is maintained by Tejinder Pal Singh.
+Copyright © 2026 Tejinder Pal Singh. All rights reserved.
 
-The application integrates third-party open-source software. Their names, trademarks, source code, and licenses remain the property of their respective authors and projects. See `THIRD_PARTY_NOTICES.md` for the current dependency/license summary and upstream references.
+Nova AI Media Player is proprietary software.
 
-When distributing a compiled application that bundles third-party components (for example Qt/PySide6, FFmpeg, or CUDA runtime packages), verify and satisfy the license and notice requirements of the exact binaries you distribute.
+The Nova-authored source code, artwork, branding, application icon, user
+interface designs, documentation, and other original project materials may not
+be reused, modified, redistributed, republished, sublicensed, or commercially
+exploited without prior written permission from Tejinder Pal Singh.
+
+This restriction applies to the Nova-authored portions of the project only.
+
+Third-party libraries and tools included or used by Nova AI Media Player remain
+subject to their respective licenses.
+
+See `THIRD_PARTY_NOTICES.md` for additional information.
