@@ -1,0 +1,6 @@
+# Nova AI Media Player V01 runtime dependencies
+# Python 3.10+ recommended on Windows
+PySide6>=6.8,<7
+faster-whisper>=1.1,<2
+pysubs2>=1.8,<2
+ctranslate2>=4.5,<5

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Nova AI Media Player in research or another project, please cite this software."
+title: "Nova AI Media Player"
+type: software
+version: "1.0.0"
+date-released: 2026-09-19
+license: MIT
+authors:
+  - family-names: Singh
+    given-names: Tejinder Pal
+keywords:
+  - media-player
+  - python
+  - pyside6
+  - windows
+  - ffmpeg
+  - whisper
+  - subtitles
+  - artificial-intelligence

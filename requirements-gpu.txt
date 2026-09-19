@@ -1,0 +1,4 @@
+# Optional NVIDIA/CUDA runtime additions for Windows GPU Whisper use.
+# Install this after requirements.txt when CUDA 12 is available.
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
