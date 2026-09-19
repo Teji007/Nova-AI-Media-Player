@@ -1,18 +1,12 @@
 # Contributing to Nova AI Media Player
 
-Thank you for contributing.
+Nova AI Media Player is proprietary software owned by Tejinder Pal Singh.
 
-## Before opening a pull request
+Before contributing code, artwork, documentation, or other material, please
+contact the developer and obtain permission to contribute.
 
-- Confirm the application starts and the changed feature works on the supported Windows target.
-- Run `python -m compileall Nova_AI_Media_Player.py`.
-- Keep secrets, personal media, local configuration, and generated build output out of Git.
-- Describe the user-facing change and any compatibility implications.
+Submitting material does not automatically grant permission to redistribute or
+reuse the Nova project outside the terms expressly approved by the developer.
 
-## Pull requests
-
-Keep each pull request focused on one feature or bug fix where practical. Include screenshots or short reproduction steps for UI changes.
-
-## Issues
-
-For bug reports, include Windows version, Python version, Nova version, reproduction steps, and relevant log/diagnostic output. Do not paste API keys or other credentials.
+All contributions must comply with the project's proprietary license and all
+applicable third-party licenses.
